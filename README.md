@@ -7,8 +7,8 @@ import pygame
 #Main Window Code
 init() #Initialize pygame
 screen = display.set_mode((800,600)) #Set screen size
-title = display.set_caption("Snakie") #Set window title
-icon = image.load('snakie.png') #Load icon
+title = display.set_caption("WINDOW NAME") #Set window title
+icon = image.load('IMAGE NAME.png') #Load icon
 display.set_icon(icon) #Set icon
 
 running = True #Set running to true
